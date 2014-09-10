@@ -5,12 +5,15 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>HongBo‘s Tech Blog</title>
+  <title>洪波的技术博客</title>
   <meta name="author" content="洪波">
 
   
-  <meta name="description" content="
-">
+  <meta name="description" content="rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
+rake generate 生成静态文件
+rake watch 检测文件变化，实时生成新内容
+rake setup_github_pages 配置octopress与github的连接
+rake preview &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -22,7 +25,7 @@
   <link rel="canonical" href="http://strox.github.io">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="HongBo‘s Tech Blog" type="application/atom+xml">
+  <link href="/atom.xml" rel="alternate" title="洪波的技术博客" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
@@ -37,7 +40,7 @@
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/">HongBo‘s Tech Blog</a></h1>
+  <h1><a href="/">洪波的技术博客</a></h1>
   
     <h2>总结才有沉淀</h2>
   
@@ -72,7 +75,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/09/10/second-test/">第二次测试</a></h1>
+      <h1 class="entry-title"><a href="/blog/2014/09/10/second-test/">搭建octpress过程</a></h1>
     
     
       <p class="meta">
@@ -88,37 +91,15 @@
   </header>
 
 
-  <div class="entry-content">
-</div>
-  
-  
+  <div class="entry-content"><ul>
+<li>rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可</li>
+<li>rake generate 生成静态文件</li>
+<li>rake watch 检测文件变化，实时生成新内容</li>
+<li>rake setup_github_pages 配置octopress与github的连接</li>
+<li>rake preview 在本机4000端口生成访问内容</li>
+<li>rake deploy 发布文件</li>
+</ul>
 
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/09/10/hong-bo-de-di-%5B%3F%5D-pian-wen-zhang/">洪波的第一篇文章</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-09-10T10:46:06+08:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>10</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>10:46 am</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Test
-测试</p>
 </div>
   
   
@@ -139,19 +120,23 @@
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2014/09/10/second-test/">第二次测试</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/09/10/hong-bo-de-di-%5B%3F%5D-pian-wen-zhang/">洪波的第一篇文章</a>
+        <a href="/blog/2014/09/10/second-test/">搭建octpress过程</a>
       </li>
     
   </ul>
 </section>
-
-
-
-
+<section>
+  <h1>About Me</h1>
+  <p>大家好，我叫朱洪波，在供职于Alibaba. 这是我的技术博客</p>
+</section>
+<section>
+  <h1>关注博客</h1>
+  <ul>
+        <li>
+        <a href="http://blog.devtang.com/">唐巧的技术博客</a>
+        </li>
+ </ul>
+</section>
 
   
 </aside>
