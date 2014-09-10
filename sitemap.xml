@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://strox.github.io/blog/2014/09/10/second-test/</loc>
+    
+    <lastmod>2014-09-10T10:55:00+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://strox.github.io/blog/2014/09/10/hong-bo-de-di-%5B%3F%5D-pian-wen-zhang/</loc>
+    
+    <lastmod>2014-09-10T10:46:06+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://strox.github.io/blog/archives/</loc>
+    <lastmod>2014-09-10T11:10:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://strox.github.io/</loc>
+    <lastmod>2014-09-10T11:10:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+</urlset>
