@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ios | 洪波的博客]]></title>
   <link href="http://strox.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://strox.github.io/"/>
-  <updated>2014-09-22T17:36:43+08:00</updated>
+  <updated>2014-09-22T17:38:42+08:00</updated>
   <id>http://strox.github.io/</id>
   <author>
     <name><![CDATA[洪波]]></name>
@@ -21,68 +21,6 @@
     <content type="html"><![CDATA[<h3>教程</h3>
 
 <p><a href="https://developer.apple.com/app-store/review/rejections/">《Common App Rejections》</a></p>
-
-<p>rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-rake post[“abc”,”中文”] 生成博文框架，然后修改生成的文件即可
-rake generate 生成静态文件
-rake watch 检测文件变化，实时生成新内容
-rake setup_github_pages 配置octopress与github的连接
-rake preview 在本机4000端口生成访问内容
-rake deploy 发布文件
-:w</p>
 ]]></content>
   </entry>
   
