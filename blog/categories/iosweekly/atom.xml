@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: ios | 洪波的博客]]></title>
-  <link href="http://strox.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iosweekly | 洪波的博客]]></title>
+  <link href="http://strox.github.io/blog/categories/iosweekly/atom.xml" rel="self"/>
   <link href="http://strox.github.io/"/>
-  <updated>2014-09-22T17:38:42+08:00</updated>
+  <updated>2014-09-22T17:51:39+08:00</updated>
   <id>http://strox.github.io/</id>
   <author>
     <name><![CDATA[洪波]]></name>
@@ -20,7 +20,9 @@
     <id>http://strox.github.io/blog/2014/09/22/ios-week-report-1</id>
     <content type="html"><![CDATA[<h3>教程</h3>
 
-<p><a href="https://developer.apple.com/app-store/review/rejections/">《Common App Rejections》</a></p>
+<p><a href="https://developer.apple.com/app-store/review/rejections/">Common App Rejections</a></p>
+
+<p><a href="http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions">The Ultimate Guide To iPhone Resolutions</a></p>
 ]]></content>
   </entry>
   
