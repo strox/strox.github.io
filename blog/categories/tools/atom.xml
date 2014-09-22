@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools | 洪波的博客]]></title>
   <link href="http://strox.github.io/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://strox.github.io/"/>
-  <updated>2014-09-22T17:51:39+08:00</updated>
+  <updated>2014-09-22T18:25:03+08:00</updated>
   <id>http://strox.github.io/</id>
   <author>
     <name><![CDATA[洪波]]></name>
@@ -28,8 +28,21 @@
 </ul>
 
 
-<p>reference:
-<a href="http://812lcl.com/blog/2013/10/27/octopresszhu-ti-yang-shi-xiu-gai/">http://812lcl.com/blog/2013/10/27/octopresszhu-ti-yang-shi-xiu-gai/</a></p>
+<hr />
+
+<h3>小技巧</h3>
+
+<ul>
+<li>正文中如何展示阅读全文： 配置文件中有个excerpt_separator</li>
+<li>如何配色</li>
+</ul>
+
+
+<hr />
+
+<h3>reference:</h3>
+
+<p><a href="http://812lcl.com/blog/2013/10/27/octopresszhu-ti-yang-shi-xiu-gai/">http://812lcl.com/blog/2013/10/27/octopresszhu-ti-yang-shi-xiu-gai/</a></p>
 ]]></content>
   </entry>
   
