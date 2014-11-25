@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iosweekly | 洪波的博客]]></title>
   <link href="http://strox.github.io/blog/categories/iosweekly/atom.xml" rel="self"/>
   <link href="http://strox.github.io/"/>
-  <updated>2014-09-22T20:47:37+08:00</updated>
+  <updated>2014-11-21T09:33:17+08:00</updated>
   <id>http://strox.github.io/</id>
   <author>
     <name><![CDATA[洪波]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS移动开发周报-第2期]]></title>
+    <link href="http://strox.github.io/blog/2014/11/21/ios-week-report-2/"/>
+    <updated>2014-11-21T08:53:00+08:00</updated>
+    <id>http://strox.github.io/blog/2014/11/21/ios-week-report-2</id>
+    <content type="html"><![CDATA[<h3>工具</h3>
+
+<p><a href="http://www.waerfa.com/sketch-skills-series-chapter-one">玩转 Sketch 系列文章一：进入一个全新的时代</a>
+<a href="http://newsify.co/">Follow websites and blogs, Newsify</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS移动开发周报-第1期]]></title>

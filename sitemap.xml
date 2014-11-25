@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://strox.github.io/blog/2014/11/21/ios-week-report-2/</loc>
+    
+    <lastmod>2014-11-21T08:53:00+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://strox.github.io/blog/2014/09/22/ios-week-report-1/</loc>
     
     <lastmod>2014-09-22T17:31:00+08:00</lastmod>
@@ -21,28 +29,28 @@
   
   <url>
     <loc>http://strox.github.io/blog/archives/</loc>
-    <lastmod>2014-09-22T20:47:37+08:00</lastmod>
+    <lastmod>2014-11-21T09:33:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://strox.github.io/</loc>
-    <lastmod>2014-09-22T20:47:37+08:00</lastmod>
+    <lastmod>2014-11-21T09:33:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://strox.github.io/blog/categories/</loc>
-    <lastmod>2014-09-22T20:47:37+08:00</lastmod>
+    <lastmod>2014-11-21T09:33:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://strox.github.io/about/</loc>
-    <lastmod>2014-09-22T20:47:37+08:00</lastmod>
+    <lastmod>2014-11-21T09:33:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
