@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://strox.github.io/sitemap.xml 
